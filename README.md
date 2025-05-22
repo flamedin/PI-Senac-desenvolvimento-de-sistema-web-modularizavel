@@ -27,7 +27,7 @@ Framework: Bootstrap
 ## Banco
 SQL Oracle
 
-Distribuição dos projeto em 4 partes
+### Distribuição do projeto em 6 partes
 
 1 - Criar repositório no git hub.
 
