@@ -30,8 +30,13 @@ SQL Oracle
 Distribuição dos projeto em 4 partes
 
 1 - Criar repositório no git hub.
+
 2 - Revisitar o projeto apresentado e definir qual será a prova de conceito que precisa ser desenvolvida.
+
 3 - Preparação do ambiente de desenvolvimento do projeto (seleção de tecnologias de frontend, backend e banco de dados).
+
 4 - Desenvolvimento do frontend do projeto.
+
 5 - Desenvolvimento do backend do projeto.
+
 6 - Gravar um vídeo rapido do projeto para entregarmos.
